@@ -1,10 +1,10 @@
-# **SPE - Simplified Physics Engine**
+# **SPE - Simplified Physics Engine** 🚀
 
 This is an amateur project aimed at comprehending primarily classical physics (with a touch of the 20th century)
 and honing my skills as a developer. It is NOT meant for professional or wide scale use, although if you do wish
 to use it, that's completely fine; whatever floats your boat.
 
-## What to expect
+## What to expect 🤔
 
 This program encompasses first and foremost classical mechanics; to be more precise, it deals with infinitesimal points
 displaced by gravitational and "contact" forces. Maybe I'll add support for classical electromagnetism and beyond but
